@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Contact List</string>
+
+    <!-- Form strings -->
+    <string name="form_name">Name</string>
+    <string name="form_family_name">Family name</string>
+    <string name="form_phone">Phone number</string>
+    <string name="form_email">E-mail</string>
+    <string name="form_address">Address</string>
+    <string name="form_phone_additional">Additional phone number</string>
+
+    <!-- Welcome Page -->
+    <string name="welcome_icon">Welcome icon</string>
+    <string name="welcome_description">welcome description</string>
+    <string name="welcome_description_text">In this application you will be able to save, edit and delete your contacts!</string>
+    <string name="start_button_text">Let\'s start!</string>
+
+    <!-- Menu Buttons -->
+    <string name="help_button">information button_question mark</string>
+    <string name="edit_button">Edit button</string>
+    <string name="delete_button">Delete button</string>
+
+    <!-- About Page -->
+    <string name="application_description_full">This is a Contact List application. Here users can save their contacts with name, phone number and email information. Users can also edit their contacts if they want to and also delete them if they don\'t want to save that information anymore.</string>
+    <string name="author">Author:</string>
+    <string name="author_name">Patricia Vera Hernández</string>
+    <string name="student">Student number:</string>
+    <string name="student_number">1106727</string>
+    <string name="contact">Contact information:</string>
+    <string name="email_info">p.vhernandez@hotmail.com</string>
+    <string name="email2_info">patricia.vera.hernandez@student.laurea.fi</string>
+    <string name="add_contact_button">Add new contact</string>
+    <string name="add_new_contact">Add new contact</string>
+    <string name="family_name">Family name</string>
+    <string name="edit_contact_button">Edit contact</string>
+    <string name="person_logo">Person logo for contact information</string>
+    <string name="information">Information button_i icon</string>
+
+</resources>

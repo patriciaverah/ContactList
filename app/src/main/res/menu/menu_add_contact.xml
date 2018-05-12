@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ContactListActivity">
+
+    <item
+        android:id="@+id/exclamation_button"
+        android:icon="@drawable/ic_info_outline_black_24dp"
+        android:title="@string/information"
+        app:showAsAction="always" />
+
+</menu>
